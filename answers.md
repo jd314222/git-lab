@@ -73,3 +73,24 @@ Answer 9:
         (use "git add <file>..." to update what will be committed)
         (use "git restore <file>..." to discard changes in working directory)
          modified:   answers.md
+
+Answer 10:
+
+    No, the changes I made online were not in my local copy.
+
+Answer 11:
+
+    Git rejects the push because I have nothing committed into the stage area.
+
+Answer 12:
+
+    Yes, once I pulled the repository, the changes made online were reflected on my local copy.
+
+Answer 13: 
+
+    .		.git		README.md
+    ..		.gitignore
+
+Answer 14: 
+
+
